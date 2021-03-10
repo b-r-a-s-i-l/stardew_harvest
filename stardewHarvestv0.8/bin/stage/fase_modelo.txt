@@ -1,0 +1,24 @@
+deslocX deslocY
+nJogadas nObjetivos
+nMeta nFerramentas
+tamMatrizX tamMatrizY
+nFasePlanta
+
+//Leitura da Matriz
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+
+//Definir a fase da planta
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+
+
+
+
+
